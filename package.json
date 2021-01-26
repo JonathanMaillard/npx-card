@@ -1,0 +1,31 @@
+{
+  "name": "@jona1995/card",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "jonathan": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanMaillard/npx-card.git"
+  },
+  "author": "Jonathan Maillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanMaillard/npx-card/issues"
+  },
+  "homepage": "https://github.com/JonathanMaillard/npx-card#readme",
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "figlet": "^1.5.0",
+    "gradient-string": "^1.2.0",
+    "log-update": "^4.0.0",
+    "ora": "^5.3.0",
+    "sparkly": "^5.0.0"
+  }
+}
